@@ -16,4 +16,4 @@ It's not completed.
 &emsp;&emsp;run main function in Main.Main and then the GUI will open
 
 ### step 4
-&emsp;&emsp;you can use chatroom now!
+&emsp;&emsp;you can use ImageProcessor now!
