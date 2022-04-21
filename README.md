@@ -13,7 +13,10 @@ It's not completed.
 &emsp;&emsp;open Main(package).Main(class)
 
 ### step 3
-&emsp;&emsp;run main function in Main.Main and then the GUI will open
+&emsp;&emsp;put img directory at the root of workspace, but not in /src
 
 ### step 4
+&emsp;&emsp;run main function in Main.Main and then the GUI will open
+
+### step 5
 &emsp;&emsp;you can use ImageProcessor now!
