@@ -2,7 +2,8 @@
 developing a image editor to research color theory and image editing effect  
 It's not completed.  
   
-![image](https://github.com/SNinjo/ImageProcessor/blob/main/img/github/screenshot.png)
+## DEMO
+<div align="center"><img src="https://github.com/SNinjo/ImageProcessor/blob/main/img/github/ImageProcessor.gif" width="600" height="300"/></div>
 
 ## Installation
 
